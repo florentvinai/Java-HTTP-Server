@@ -10,7 +10,7 @@ out/
 .classpath
 .project
 .settings/
-.html
+
 
 # Autres fichiers et dossiers à ignorer
 *.log
@@ -18,3 +18,5 @@ out/
 *.bak
 *.swp
 .DS_Store
+.html
+git
