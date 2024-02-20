@@ -1,0 +1,20 @@
+
+
+# Dossiers de build
+
+target/
+build/
+out/
+
+# Fichiers et dossiers spécifiques à Eclipse
+.classpath
+.project
+.settings/
+.html
+
+# Autres fichiers et dossiers à ignorer
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
