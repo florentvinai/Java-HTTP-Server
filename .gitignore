@@ -18,5 +18,4 @@ out/
 *.bak
 *.swp
 .DS_Store
-.html
-git
+*.html
